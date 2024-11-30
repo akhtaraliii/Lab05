@@ -24,9 +24,15 @@
         android:id="@+id/favoritesButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+<<<<<<< HEAD
         android:layout_gravity="center_horizontal"
         android:layout_marginTop="10dp"
         android:text="Favorites" />
+=======
+        android:text="Favorites"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10dp" />
+>>>>>>> bb143a999195b55b3d0aac9d0c252ba42b56150b
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/recyclerView"
